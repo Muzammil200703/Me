@@ -1,3 +1,4 @@
+# LOGIC
 # Guess number between 1 to 100
 # generate a number dont print it
 # if user selects anything other than number say invalid number
